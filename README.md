@@ -59,8 +59,11 @@ This analysis was conducted on Google Playstore Applications, which contains may
 
 <h2 style="color:#84cae8"> Insight-4
 
+<br> 
+
 ![Graph Image](/PLOTS/plot4.png)
 
+<br>
 
 ```python
 # Selecting rows from the DataFrame where the value in the 'Reviews' column is greater than 50000000.
