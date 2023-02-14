@@ -12,8 +12,8 @@ This analysis was conducted on Google Playstore Applications, which contains may
 
 <h2 style="color:#84cae8"> Insight-1
 
-<iframe width="500" height="500" frameborder="0" scrolling="no" src="https://chart-studio.plotly.com/~amansinganamala/7.embed
-"></iframe>
+<iframe width="500" height="500" frameborder="0" scrolling="no" src="https://chart-studio.plotly.com/~amansinganamala/7.embed"></iframe>
+
 
 
 <ul>
@@ -28,7 +28,8 @@ This analysis was conducted on Google Playstore Applications, which contains may
 
 <h2 style="color:#84cae8"> Insight-2
 
-![Graph Image](/PLOTS/plot2.png)
+<iframe width="500" height="500" frameborder="0" scrolling="no" src="https://chart-studio.plotly.com/~amansinganamala/14.embed"></iframe>
+
 
 <ul>
 <li>Game and Family category are the most appearances for application in store</li>
@@ -43,8 +44,8 @@ This analysis was conducted on Google Playstore Applications, which contains may
 
 
 <h2 style="color:#84cae8"> Insight-3
+<iframe width="500" height="500" frameborder="0" scrolling="no" src="https://chart-studio.plotly.com/~amansinganamala/16.embed"></iframe>
 
-![Graph Image](/Google_Play_Store_Apps/PLOTS/plot3.png)
 
 <ul>
 <li>The ratings of applications in each category are relatively similar. Above 4</li>
@@ -58,6 +59,7 @@ This analysis was conducted on Google Playstore Applications, which contains may
 <h2 style="color:#84cae8"> Insight-4
 
 ![Graph Image](/PLOTS/plot4.png)
+
 
 ```python
 # Selecting rows from the DataFrame where the value in the 'Reviews' column is greater than 50000000.
@@ -79,7 +81,8 @@ df_reviews= df[df['Reviews']> 50000000].sort_values(by=["Reviews"], ascending=Fa
 
 <h2 style="color:#84cae8"> Insight-5
 
-![Graph Image](/PLOTS/plot5.png)
+<iframe width="500" height="500" frameborder="0" scrolling="no" src="https://chart-studio.plotly.com/~amansinganamala/18.embed"></iframe>
+
 
 <ul>
 <li>Game and Family category are the most appearances for application in store</li>
@@ -112,7 +115,8 @@ df_reviews= df[df['Reviews']> 50000000].sort_values(by=["Reviews"], ascending=Fa
 
 <h2 style="color:#84cae8"> Insight-6
 
-![Graph Image](/PLOTS/plot6.png)
+<iframe width="500" height="500" frameborder="0" scrolling="no" src="https://chart-studio.plotly.com/~amansinganamala/20.embed"></iframe>
+
 
 <ul>
 <li>Seem like well-known application will get a good rating</li>
