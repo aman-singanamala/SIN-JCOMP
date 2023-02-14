@@ -54,7 +54,7 @@ This analysis was conducted on Google Playstore Applications, which contains may
 </ul>
 </h2>
 
-<br><hr><br>
+<br><br>
 
 
 <h2 style="color:#84cae8"> Insight-4
@@ -81,7 +81,7 @@ df_reviews= df[df['Reviews']> 50000000].sort_values(by=["Reviews"], ascending=Fa
 </h2>
 
 
-<br><hr><br>
+<br><br>
 
 <h2 style="color:#84cae8"> Insight-5
 
@@ -114,7 +114,7 @@ df_reviews= df[df['Reviews']> 50000000].sort_values(by=["Reviews"], ascending=Fa
 
 
 
-<br><hr><br>
+<br><br>
 
 
 <h2 style="color:#84cae8"> Insight-6
@@ -130,7 +130,7 @@ df_reviews= df[df['Reviews']> 50000000].sort_values(by=["Reviews"], ascending=Fa
 
 
 
-<br><hr><br>
+<br><br>
 
 
 <h2 style="color:#84cae8"> Insight-7
