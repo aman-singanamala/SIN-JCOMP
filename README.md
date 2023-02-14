@@ -1,3 +1,4 @@
+# Social and Information Networks
 # Insights from Dataset Analysis
 
 
@@ -11,7 +12,7 @@ This analysis was conducted on Google Playstore Applications, which contains may
 
 <h2 style="color:#84cae8"> Insight-1
 
-![Graph Image](/Google_Play_Store_Apps/PLOTS/plot1.png)
+![Graph Image](./PLOTS/plot1.png)
 
 <ul>
 <li>Most users gave an rating between 4 and 5 with a count of 7049</li>
@@ -25,7 +26,7 @@ This analysis was conducted on Google Playstore Applications, which contains may
 
 <h2 style="color:#84cae8"> Insight-2
 
-![Graph Image](/Google_Play_Store_Apps/PLOTS/plot2.png)
+![Graph Image](/PLOTS/plot2.png)
 
 <ul>
 <li>Game and Family category are the most appearances for application in store</li>
@@ -54,7 +55,7 @@ This analysis was conducted on Google Playstore Applications, which contains may
 
 <h2 style="color:#84cae8"> Insight-4
 
-![Graph Image](/Google_Play_Store_Apps/PLOTS/plot4.png)
+![Graph Image](/PLOTS/plot4.png)
 
 ```python
 # Selecting rows from the DataFrame where the value in the 'Reviews' column is greater than 50000000.
@@ -76,7 +77,7 @@ df_reviews= df[df['Reviews']> 50000000].sort_values(by=["Reviews"], ascending=Fa
 
 <h2 style="color:#84cae8"> Insight-5
 
-![Graph Image](/Google_Play_Store_Apps/PLOTS/plot5.png)
+![Graph Image](/PLOTS/plot5.png)
 
 <ul>
 <li>Game and Family category are the most appearances for application in store</li>
@@ -109,7 +110,7 @@ df_reviews= df[df['Reviews']> 50000000].sort_values(by=["Reviews"], ascending=Fa
 
 <h2 style="color:#84cae8"> Insight-6
 
-![Graph Image](/Google_Play_Store_Apps/PLOTS/plot6.png)
+![Graph Image](/PLOTS/plot6.png)
 
 <ul>
 <li>Seem like well-known application will get a good rating</li>
@@ -124,7 +125,7 @@ df_reviews= df[df['Reviews']> 50000000].sort_values(by=["Reviews"], ascending=Fa
 
 <h2 style="color:#84cae8"> Insight-7
 
-![Graph Image](/Google_Play_Store_Apps/PLOTS/plot7.png)
+![Graph Image](/PLOTS/plot7.png)
 
 <ul>
 <li>Seem like number of install affect to rating.  Applications with more installs have more ratings </li>
@@ -135,5 +136,3 @@ df_reviews= df[df['Reviews']> 50000000].sort_values(by=["Reviews"], ascending=Fa
 
 
 
-
-"# SIN-JCOMP" 
