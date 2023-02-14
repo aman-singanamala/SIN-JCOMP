@@ -12,7 +12,7 @@ This analysis was conducted on Google Playstore Applications, which contains may
 
 <h2 style="color:#84cae8"> Insight-1
 
-<iframe width="500" height="500" frameborder="0" scrolling="no" src="https://chart-studio.plotly.com/~amansinganamala/7.embed"></iframe>
+<iframe width="800" height="500" frameborder="0" scrolling="no" src="https://chart-studio.plotly.com/~amansinganamala/7.embed"></iframe>
 
 
 
@@ -28,7 +28,7 @@ This analysis was conducted on Google Playstore Applications, which contains may
 
 <h2 style="color:#84cae8"> Insight-2
 
-<iframe width="500" height="500" frameborder="0" scrolling="no" src="https://chart-studio.plotly.com/~amansinganamala/14.embed"></iframe>
+<iframe width="1200" height="1200" frameborder="0" scrolling="no" src="https://chart-studio.plotly.com/~amansinganamala/14.embed"></iframe>
 
 
 <ul>
@@ -44,7 +44,8 @@ This analysis was conducted on Google Playstore Applications, which contains may
 
 
 <h2 style="color:#84cae8"> Insight-3
-<iframe width="500" height="500" frameborder="0" scrolling="no" src="https://chart-studio.plotly.com/~amansinganamala/16.embed"></iframe>
+<br>
+<iframe width="1500" height="500" frameborder="0" scrolling="no" src="https://chart-studio.plotly.com/~amansinganamala/16.embed"></iframe>
 
 
 <ul>
@@ -115,7 +116,7 @@ df_reviews= df[df['Reviews']> 50000000].sort_values(by=["Reviews"], ascending=Fa
 
 <h2 style="color:#84cae8"> Insight-6
 
-<iframe width="500" height="500" frameborder="0" scrolling="no" src="https://chart-studio.plotly.com/~amansinganamala/20.embed"></iframe>
+<iframe width="1000" height="800" frameborder="0" scrolling="no" src="https://chart-studio.plotly.com/~amansinganamala/20.embed"></iframe>
 
 
 <ul>
