@@ -12,7 +12,9 @@ This analysis was conducted on Google Playstore Applications, which contains may
 
 <h2 style="color:#84cae8"> Insight-1
 
-![Graph Image](./PLOTS/plot1.png)
+<iframe width="500" height="500" frameborder="0" scrolling="no" src="https://chart-studio.plotly.com/~amansinganamala/7.embed
+"></iframe>
+
 
 <ul>
 <li>Most users gave an rating between 4 and 5 with a count of 7049</li>
