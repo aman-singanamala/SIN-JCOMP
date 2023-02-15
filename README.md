@@ -61,17 +61,18 @@ This analysis was conducted on Google Playstore Applications, which contains may
 
 <br> 
 
-![Graph Image](/PLOTS/plot4.png)
+![Graph Image](./PLOTS/plot4.png)
 
 <br>
+
 
 ```python
 # Selecting rows from the DataFrame where the value in the 'Reviews' column is greater than 50000000.
 # Sorting the selected rows in descending order based on the value in the 'Reviews' column.
 # Assign the result to a new DataFrame named df_reviews
 df_reviews= df[df['Reviews']> 50000000].sort_values(by=["Reviews"], ascending=False)
-
 ```
+<br>
 
 <ul>
 
