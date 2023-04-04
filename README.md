@@ -1,13 +1,18 @@
 # Google Play Store App Analysis
+<p><img src="./PLOTS/dataset-cover.jpg" width=1000/></p>
 
 This project analyzes the Google Play Store apps dataset, which can be found on Kaggle [here](https://www.kaggle.com/lava18/google-play-store-apps). The analysis includes data cleaning, exploratory data analysis, and visualizations.
 
 ## Project Links
 
-- GitHub Repository: https://github.com/aman-singanamala/SIN-JCOMP
-- Visualization Website 1: https://aman-singanamala-sin-jcomp-vis-ni485h.streamlit.app/
-- Visualization Website 2: https://aman-singanamala-sin-jcomp-app-lih7o2.streamlit.app/
-- Dataset: https://www.kaggle.com/datasets/lava18/google-play-store-apps
+- ## GitHub Repository: https://github.com/aman-singanamala/SIN-JCOMP
+- ## Visualization Website 1: [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://aman-singanamala-sin-jcomp-vis-ni485h.streamlit.app)  
+
+- ## Visualization Website 2: [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://aman-singanamala-sin-jcomp-app-lih7o2.streamlit.app)  
+- ## Dataset: https://www.kaggle.com/datasets/lava18/google-play-store-apps
+
+
+
 
 ## Data Cleaning
 
