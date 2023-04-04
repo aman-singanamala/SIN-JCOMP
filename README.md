@@ -38,7 +38,7 @@ This analysis was conducted on Google Playstore Applications, which contains may
 </h2>
 
 
-<br><hr><br>
+<br><br>
 
 
 <h2 style="color:#84cae8"> Insight-2
@@ -55,7 +55,7 @@ This analysis was conducted on Google Playstore Applications, which contains may
 
 
 
-<br><hr><br>
+<br><br>
 
 
 <h2 style="color:#84cae8"> Insight-3
@@ -81,12 +81,7 @@ This analysis was conducted on Google Playstore Applications, which contains may
 <br>
 
 
-```python
-# Selecting rows from the DataFrame where the value in the 'Reviews' column is greater than 50000000.
-# Sorting the selected rows in descending order based on the value in the 'Reviews' column.
-# Assign the result to a new DataFrame named df_reviews
-df_reviews= df[df['Reviews']> 50000000].sort_values(by=["Reviews"], ascending=False)
-```
+
 <br>
 
 <ul>
@@ -149,7 +144,7 @@ df_reviews= df[df['Reviews']> 50000000].sort_values(by=["Reviews"], ascending=Fa
 <br><br>
 
 
-<h2 style="color:#84cae8"> Insight-7
+<h2 style="color:#84cae8"> Insight-7 </h2>
 
 ![Graph Image](/PLOTS/plot7.png)
 
@@ -157,7 +152,6 @@ df_reviews= df[df['Reviews']> 50000000].sort_values(by=["Reviews"], ascending=Fa
 <li>Seem like number of install affect to rating.  Applications with more installs have more ratings </li>
 
 </ul>
-</h2>
 
 
 
